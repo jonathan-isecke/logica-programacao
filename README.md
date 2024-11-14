@@ -1,5 +1,5 @@
 # logica-programacao
-Curso de Lógica de Programação em Python
+Curso de Análise de Dados e Lógica de Programação em Python da EBAC
 
 ## Aulas:
  - Aula 1
